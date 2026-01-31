@@ -16,3 +16,5 @@ Infill: 25% or higher
 Wall count: 4 or more
 
 The wheels are designed to accept standard skateboard-size ball bearings, which press-fit directly into the model. This fit is only guaranteed at the default scale. Scaling the model up or down will require either remixing the body geometry  or creating an adapter to maintain proper bearing tolerances.
+
+You can find on thingiverse at https://www.thingiverse.com/thing:7285584
